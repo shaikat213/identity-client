@@ -1,0 +1,7 @@
+.modal-lg, .modal-xl {
+  max-width: 600px;
+}
+.modal.show .modal-dialog {
+  transform: none;
+  max-width: 600px;
+}
